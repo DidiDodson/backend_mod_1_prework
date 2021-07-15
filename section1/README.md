@@ -25,12 +25,12 @@ Here's what we ask you do:
 - code comments: always find a # at the beinning of a line; allows the coder
 to leave comments about process, explanation, etc. without that being used in the code itself.
 - String: how you make something that will be used by a human. Indicated in the code by the use of double or single quotes. Note: in order for an octothorpe to be used in a string, you must use double quotes.
-- Number
-- Boolean
+- Number: a numeral (in this context, it could be a floating point or an integer)
+- Boolean: a logic schema in which values are either true or false.
 - variable: a word or phrase used to represent something else in the code. Note: use = to indicate the variable
-- assignment operator
-- re-assignment (of a variable)
-- interpolation
+- assignment operator: the operator that assigns values to a variable (in ruby it's a =)
+- re-assignment (of a variable): changing the meaning of a variable
+- interpolation: the ability to stick data in the middle of a string.
 
 
 ## Part A Super Learner Habits
