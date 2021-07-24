@@ -13,6 +13,7 @@ I really like the examples of good Slack questions on the Turing Questions page.
 ### If Statements
 
 1. What is a conditional statement? Give three examples.
+
 Conditional statements create forks in the road. We often use if, elsif, and else to determine which fork to go down next.
 Ex1: weight = 12
 if weight < 10
@@ -42,9 +43,11 @@ else
  end     
 
 1. Why might you want to use an if-statement?
+
 You want to use if-statements to answer a question, such as "is this true or false?" that will then be populated as outcomes. In the "Making Decisions" reading, we created a series of possible outcomes in a choose-your-own-adventure style to help a user answer what they would do in a given scenario. We created outcomes based on set decisions to be made by the user t guide them through the activity.
 
 1. What is the Ruby syntax for an if statement?
+
 if - lays out condition
 elsif - lays out counter-condition(s)
 else - provides way to work around edge cases
@@ -56,12 +59,14 @@ if cats > 4
 (My aunt actually said this to me...she runs an animal rescue.)
 
 1. How do you add multiple conditions to an if statement?
+
 use elsif to add as many alternative conditions as needed
 
 elsif cats == 0
   put "sad!"
 
 1. Provide an example of the Ruby syntax for an if/elsif/else statement:
+
 cats = 2
 
 if cats > 4
@@ -73,14 +78,17 @@ else
 end      
 
 1. Other than an if-statement, can you think of any other ways we might want to use a conditional statement?
+
 I found a resource that lays out different types of conditionals (including if-statements.) Some of the other options they provided were case statements using when and unless statements - the converse of if-statements. [conditional statements](https://www.includehelp.com/ruby/conditional-statements.aspx)
 
 ### Methods
 
 1. In your own words, what is the purpose of a method?
+
 A method (a.k.a. a function) allows us to more efficiently execute code by using standardized syntax - i.e., reserved words, such as def and end. Methods allow us to define the task that will be executed by the code one time for many parameters.
 
 1. Create a method named `hello` that will print `"Sam I am"`.
+
 def hello(name_phrase)
   puts name_phrase
 end
@@ -88,6 +96,7 @@ end
 hello("Sam I am.")
 
 1. Create a method named `hello_someone` that takes an argument of `name` and prints `"#{name} I am"`.
+
 def hello_someone(name)
   puts "#{name} I am."
 end
@@ -97,7 +106,9 @@ hello_someone("Didi")
 hello_someone("Nick")
 
 1. How would you call or execute the method that you created above?
+
 You have to include the name with values (ex above: hello_someone(<"name">)) to define what data will be populated in the puts line. In the example I made above, I used three names. Thus, when I ran it in the terminal, all three populated.
 
 1. What questions do you have about methods in Ruby?
+
 I need more practice creating code using the different variables and functions described in Ex19. No questions so far.

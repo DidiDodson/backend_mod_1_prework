@@ -50,6 +50,7 @@ summer_activities('hiking', 'seeing the mountains')
 # What did you name each parameter, and why?
 
 # EXPLAIN:
+
 #I named the function summer_activities because it clearly described what type of data
 #I was planning to include in my call. You would not expect to see winter activities or rainy day activities
 #in this function. As far as the parameters (act1 and act2), I tried to make them as simple as possible, while still being unique.
