@@ -12,9 +12,9 @@ Since Arrays are a bigger topic, it is the main focus of this section. Some revi
 
 ### Vocabulary Terms
 
-- hash
-- key
-- value
+- hash: an unordered list of attributes that describe a variable
+- key: the attribute of a hash
+- value: the information that answers the key for a specific variable
 
 ## Open your local copy of backend-mod-1-prework
 
