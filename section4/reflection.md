@@ -57,6 +57,7 @@ rover.praise
 ```
 
 1. How do you create an instance of a class?
+
 You define the class, then you create a variable that stores the class.
 Ex:
 class CuteCat

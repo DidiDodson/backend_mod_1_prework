@@ -18,11 +18,11 @@ class Person
   end
 
   def speak
-    "#{@name} says 'Boy, howdy! I'm #{@age}'!"
+    "#{@name} says 'Boy, howdy! I'm almost #{@age}!''"
   end
 
   def eat
-    "#{@name} says,'birthday supper is the best! nom nom nom!"
+    "#{@name} says,'birthday supper is the best! nom nom nom!''"
   end
 end
 
