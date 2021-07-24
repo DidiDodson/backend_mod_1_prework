@@ -6,23 +6,23 @@
 # Example: Write code that saves your name to a variable and
 # prints what that variable holds to the terminal:
 name = "Harry Potter"
-p name
+  p name
 
 # Write code that saves the string 'Dobby' to a variable and
 # prints what that variable holds to the terminal:
 house_elf = "Dobby"
-p house_elf
+  p house_elf
 
 # Write code that saves the string 'Harry Potter must not return to Hogwarts!'
 # and prints what that variable holds to the terminal:
 dobby_phrase = "Happy Potter must not return to Hogwarts!"
-p dobby_phrase
+  p dobby_phrase
 
 # Write code that adds 2 to the `students` variable and
 # prints the result:
 students = 22
 plus_two = "#{students + 2}"
-p plus_two
+  p plus_two
 
 # Write code that subracts 2 from the `students` variable and
 # prints the result:
@@ -38,9 +38,9 @@ p minus_two
 first_name = "Nick, Rick, Larry"
 is_hungry = "famished, starved, ravenous"
 number_of_pets = "1, 2, 3"
-p "#{first_name}"
-p "#{is_hungry}"
-p "#{number_of_pets}"
+  p "#{first_name}"
+  p "#{is_hungry}"
+  p "#{number_of_pets}"
 
 
 # IN WORDS:
@@ -59,16 +59,16 @@ p "#{number_of_pets}"
 first_name = "Lani, Keanu, Mike"
 is_hungry = "craving, hankering, voracious"
 number_of_pets = "4, 5, 6"
-p "#{first_name}"
-p "#{is_hungry}"
-p "#{number_of_pets}"
+  p "#{first_name}"
+  p "#{is_hungry}"
+  p "#{number_of_pets}"
 
 
 # YOU DO:
 # Using the variables below, print the total number of snacks to the terminal:
 healthy_snacks = 6;
 junk_food_snacks = 8;
-p "#{healthy_snacks + junk_food_snacks}"
+  p "#{healthy_snacks + junk_food_snacks}"
 
 #-------------------
 # FINAL CHECK

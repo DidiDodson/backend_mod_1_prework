@@ -7,12 +7,11 @@
 p "Alan Turing"
 
 # Write code that prints `Welcome to Turing!` to the terminal:
-puts "'Welcome to Turing!'"
+p "'Welcome to Turing!'"
 
 # Write code that prints `99 bottles of pop on the wall...` to the terminal:
-puts "'99 bottles of pop on the wall...'"
+p "'99 bottles of pop on the wall...'"
 
 # Write out code to log one line from your favorite song or movie.
 line = "keep the change, ya filthy animal"
-puts "In Home Alone, Kevin MacCalister tricks the robbers with a line from a
-fake movie that states '#{line}'."
+  puts "In Home Alone, Kevin MacCalister tricks the robbers with a line from a fake movie that states '#{line}'."

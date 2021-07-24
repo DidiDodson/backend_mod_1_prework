@@ -8,21 +8,21 @@
 name = "Ron"
 team = "Chudley Cannons"
 
-p "The #{team} are #{name}'s favorite Quidditch team"
+  p "The #{team} are #{name}'s favorite Quidditch team"
 
 # Write code that uses the variables below to form a string that reads
 # "The quick red fox jumped over the lazy brown dog":
 speedy = "quick red fox"
 slow_poke = "lazy brown dog"
 
-p "The #{speedy} jumped over the #{slow_poke}"
+  p "The #{speedy} jumped over the #{slow_poke}"
 
 # Write code that uses the variables below to form a string that reads
 # "In a predictable result, the tortoise beat the hare!":
 slow_poke = "tortoise"
 speedy = "hare"
 
-p "In a predictable result, the #{slow_poke} beat the #{speedy}!"
+  p "In a predictable result, the #{slow_poke} beat the #{speedy}!"
 
 
 # YOU DO:
@@ -30,4 +30,4 @@ p "In a predictable result, the #{slow_poke} beat the #{speedy}!"
 main_character = "Frodo Baggins"
 wizard = "Gandalf"
 bad_guy = "Sauron the Deceiver"
-p "In the Lord of the Rings, #{main_character} and #{wizard}, along with seven other companions, set off on a quest to destroy the Ring and defeat #{bad_guy}."
+  p "In the Lord of the Rings, #{main_character} and #{wizard}, along with seven other companions, set off on a quest to destroy the Ring and defeat #{bad_guy}."
